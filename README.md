@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img alt="FeedbackWidget" height="80" title="Plant Manager" src="./image.png" />
+  <img alt="FeedbackWidget" height="80" title="Plant Manager" src="./assets/Logo - MartinsFlix" />
 </h1>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/github/license/silasfmartins/social-tree">
+  <img alt="License" src="https://img.shields.io/github/license/silasfmartins/martins-flix">
 </p>
 
 
