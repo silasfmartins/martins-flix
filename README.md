@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="FeedbackWidget" height="80" title="Plant Manager" src="./assets/Logo - MartinsFlix" />
+  <img alt="MartinsFlix" height="80" title="Plant Manager" src="./assets/img/Logo - MartinsFlix.png" />
 </h1>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 
 ## 💻 Projeto
-Aplicativo que dar acesso a algumas das minhas redes sociais.
+Aplicativo que se inspira na interface da Netflix.
 
 ## 🔃 Requisitos para utilizar
 
@@ -19,17 +19,13 @@ Aplicativo que dar acesso a algumas das minhas redes sociais.
 -   [ x ] HTML
 -   [ x ] CSS
 
-## :hammer_and_wrench: Features 
-
--   [ ] É possível acessar as minhas redes sociais por essa aplicação.
-
 ## 🆚 Versionamento / Versioning
 
 Esse projeto não possui um sistema de versionamento.
 
 ## 🆙 Projeto no ar
 
-É possível acessar a aplicação através da URL: https://silasfmartins.github.io/social-tree/ .
+É possível acessar a aplicação através da URL: https://silasfmartins.github.io/martins-flix/ .
 
 ## 👨‍💻 Contribuir / Contributing
 
